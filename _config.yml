@@ -1,0 +1,14 @@
+title: Brave Hager
+email: bravehager7@gmail.com
+description: >-
+  Eighteen year-old computer science student at SUNY New Paltz.
+baseurl: ""
+url: "bravehager.github.io"
+github_username: bravehager
+construction:
+    message: "WARNING: THIS JEKYLL SITE IS UNDER CONSTRUCTION"
+markdown: kramdown
+plugins:
+  - jekyll-feed
+sass:
+    sass_dir: _sass

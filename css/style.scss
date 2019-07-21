@@ -1,0 +1,46 @@
+---
+---
+@charset "utf-8";
+
+html, body, h1, h2, h3, h4, h5, h6,
+p, blockquote, pre, hr,
+dl, dd, ol, ul, figure {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+    height: 100%;
+}
+
+a {
+    color: #FFF;
+}
+
+#under-construction {
+    background-image: url("../assets/img/beetleborg.jpeg");
+    height: 100%;
+    min-width: 1000px;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #FFF;
+    text-decoration: wavy;
+    
+    padding: 10px 10px 10px 10px;
+
+    h1 {
+        font-size: 32px;
+
+    }
+
+    marquee {
+        color: yellow;
+        font-size: 32px;
+    }
+}
+
+h1, h2, h3, h4, h5, h6, p {
+    margin-bottom: 16px;
+}
+
